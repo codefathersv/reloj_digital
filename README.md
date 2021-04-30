@@ -1,3 +1,3 @@
 # Reloj Digital en JavaScript
 
-Vista en vivo: https://alexischvz.github.io/reloj_digital/
+Vista en vivo: https://codefathersv.github.io/reloj_digital/
